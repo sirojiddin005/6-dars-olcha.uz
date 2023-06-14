@@ -1,0 +1,23 @@
+.olcha {
+    color: #DA002B;
+    font-size: 34px;
+    font-weight: bold;
+  }
+header input {
+  border: 0;
+  outline: 0;
+}
+header svg {
+  cursor: pointer;
+}
+
+@media(max-width: 850px) {
+  header {
+    flex-direction: column;
+  }
+}
+@media(max-width: 475px) {
+  .head {
+    flex-direction: column;
+  }
+}

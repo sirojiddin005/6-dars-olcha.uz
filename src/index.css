@@ -1,0 +1,48 @@
+* {
+    transition: 0.1s;
+}
+ul li {
+    list-style: none;
+}
+p {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+@media(max-width: 700px) {
+    .container-fluid {
+        padding: 50px 30px !important;
+    }
+}
+.dark {
+    background-color: rgba(0, 0, 0, 0.918);
+    color: antiquewhite;
+    fill: antiquewhite;
+}
+.dark .btn {
+    color: antiquewhite;
+}
+.dark p {
+    color: antiquewhite;
+}
+.dark li a {
+    color: antiquewhite !important;
+}
+.dark header {
+    box-shadow: 10px 0 25px 0 wheat !important;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: rgb(22, 22, 22);
+    width: 100%;
+}
+.dark .sum2 {
+    color: black;
+}
+.dark .sidebar {
+    background-color:  rgba(0, 0, 0, 0.966);
+}

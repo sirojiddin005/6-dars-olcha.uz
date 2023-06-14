@@ -1,0 +1,21 @@
+footer ul {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  footer ul li a {
+    color: rgba(0, 0, 0, 0.603);
+  }
+  footer ul li a:hover {
+    text-decoration: underline !important;
+  }
+  footer p {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.603);
+  }
+  .info {
+      color: #DA002B;
+      font-size: 22px;
+  }
+  .info2 {
+    opacity: 0% !important;
+}

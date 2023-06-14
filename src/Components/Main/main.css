@@ -1,0 +1,40 @@
+/* .row {
+    justify-content: center;
+  } */
+  .row hr {
+    width: 955px;
+  }
+  .row img {
+    width: 25px;
+    margin-bottom: 10px;
+  }
+  .sum2 {
+    background-color: #FFD740;
+    width: 150px;
+    padding: 0 5px !important;
+    border-radius: 5px;
+  }
+  .cards:hover {
+    box-shadow: 2px 2px 20px 5px rgba(107, 107, 107, 0.253);
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .a1:hover {
+    color: #DA183F !important;
+  }
+  .btn:hover {
+    fill: white;
+  }
+ .text {
+  height: 100px;
+ }
+ .img {
+   width: 250px;
+   height: 200px;
+ }
+ .img img {
+  border-radius: 15px;
+  height: 85%;
+  width: 100%;
+
+ }

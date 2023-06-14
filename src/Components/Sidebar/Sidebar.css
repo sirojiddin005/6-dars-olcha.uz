@@ -1,0 +1,15 @@
+.sidebar {
+    position: fixed;
+    z-index: 3;
+    top: 0;
+    left: 0;
+    width: 400px;
+    height: 100vh;
+    padding: 24px;
+    background-color: white;
+    box-shadow: 10px 0 20px 0 rgba(0, 0, 0, 0.527) ;
+    transition: 0.5s;
+}
+.hide {
+    left: -150%;
+}
